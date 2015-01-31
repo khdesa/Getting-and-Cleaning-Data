@@ -3,6 +3,8 @@ Class Project
 
 - run_analysis.R 
 
+Requirements:
+
 In order to run this code, you must have the UCI HAR dataets downloaded, unzipped, and saved in your home directory, which is also the working directory.  
 
 Two packages must be installed prior to running the codel reshape2 and data.table.  Several functions used in the code, including melt, dcast, and read.tale refer to these two packages. 
