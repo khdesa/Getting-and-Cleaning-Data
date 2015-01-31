@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 Class Project
 
-#run_analysis.R 
+- run_analysis.R 
 
 In order to run this code, you must have the UCI HAR dataets downloaded, unzipped, and saved in your home directory, which is also the working directory.  
 
